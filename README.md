@@ -14,7 +14,8 @@ Integrates the Stanford brand bar and typical Stanford elements (colored boxes a
 * Depends on Stanford's su-identity package, which is hosted externally.
 
 ## Examples
-See the example-images directory for pictures. Code is in the root directory.
+* [Stanford site with a navigation bar](https://raw.github.com/trusheim/SU-Plate/master/example-images/base-w-navbar.png)
+* [Stanford site without nav bar](https://raw.github.com/trusheim/SU-Plate/master/example-images/base.png)
 
 ## Install
 Requires [bootstrap](http://twitter.github.com/bootstrap/index.html) to be installed in the assets/bootstrap directory. Just view pages after that!
