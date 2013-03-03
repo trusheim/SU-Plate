@@ -6,17 +6,21 @@ Integrates the Stanford brand bar and typical Stanford elements (colored boxes a
 ##Major features:
 
 * Instant branded site name (just change the text in the H1 element)
+* Stanford-style colored boxes, headers, etc.
 * Stanford brand header with new "SUNet Login" link integrated
 * Stanford brand footer
 * Fully compatible with Bootstrap framework
 * Mobile/tablet compatible (thanks to Bootstrap)
-* Depends on Stanford's su-identity package, which is hosted externally; 
+* Depends on Stanford's su-identity package, which is hosted externally.
+
+## Examples
+See the example-images directory for pictures. Code is in the root directory.
 
 ## Install
 Requires [bootstrap](http://twitter.github.com/bootstrap/index.html) to be installed in the assets/bootstrap directory. Just view pages after that!
 
 ## Guarantees
-I made this one lazy night for future projects. Markup not guaranteed XHTML compliant or anything. No warrantees.
+I made this one lazy night for future projects so that I could learn Bootstrap. Markup not guaranteed XHTML compliant or anything. No warrantees.
 
 ## Corrections welcome
 Feel free to correct the templates or add features and submit a pull request.
